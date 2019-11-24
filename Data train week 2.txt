@@ -1,0 +1,52 @@
+Basics
+Expression: Expressions are representations of value. They are different from statement in the fact that statements do something while expressions are representation of value. 
+For example any string is also an expressions since it represents the value of the string as well.
+
+Syntax Error: Syntax errors are the most basic type of error. 
+They arise when the Python parser is unable to understand a line of code
+
+PEP8: PEP 8 is Python's style guide. It's a set of rules for how to format your Python code to maximize its readability.
+PEP is actually an acronym that stands for Python Enhancement Proposal.
+
+What does a linter do: lint, or a linter, is a tool that analyzes source code to flag programming errors, 
+bugs, stylistic errors, and suspicious constructs
+
+What is the result of this expression: “*” * 10: It gives a syntax error.
+
+PRIMITIVE QUESTION
+
+What are Variables: Variables are the building blocks of keeping track of a state of an object. You might think of a variable as
+a label or tag.
+
+What are the primitive built-in types in Python? Python has four primitive types: integers, floats, booleans and strings
+
+When should we use “”” (tripe quotes) to define strings? The triple quotation is a nice way to be able to include other types 
+of quotation within your string without having to use escape characters.
+
+Assuming (name = “John Smith”), what does name[1] return?  returns: o
+
+name[-2]? Returns: t
+
+name[1:-1]? Returns: "ohn Smit"
+
+How to get the length of name? len(name)
+
+What are the escape sequences in Python?
+\\	Backslash (\)
+\'	Single quote (')
+\"	Double quote (")
+\a	ASCII Bell (BEL)
+\b	ASCII Backspace (BS)
+\f	ASCII Formfeed (FF)
+\n	ASCII Linefeed (LF)
+\r	ASCII Carriage Return (CR)
+\t	ASCII Horizontal Tab (TAB)
+\v	ASCII Vertical Tab (VT)
+\ooo	ASCII character with octal value ooo
+\xhh...	ASCII character with hex value hh
+
+What is the result of f“{2+2}+{10%3}”? f“{2+2}+{10%3}”
+
+Given (name = “john smith”), what will name.title() return?
+
+
